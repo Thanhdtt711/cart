@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  
+  "product": [
+    {
+      "id": 1,
+      "img": "https://picsum.photos/200/300",
+      "name": "Sản phẩm 1",
+      "description": "abc",
+      "price": "320"
+    },
+    {
+      "id": 2,
+      "img": "https://picsum.photos/200/300",
+      "name": "Sản phẩm 2",
+      "description": "abc",
+      "price": "320"
+    },
+    {
+      "id": 3,
+      "img": "https://picsum.photos/200/300",
+      "name": "Sản phẩm 3",
+      "description": "abc",
+      "price": "320"
+    },
+    {
+      "id": 4,
+      "img": "https://picsum.photos/200/300",
+      "name": "Sản phẩm 4",
+      "description": "abc",
+      "price": "320"
+    }
+  ]
+}
